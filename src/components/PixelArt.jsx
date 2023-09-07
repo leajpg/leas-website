@@ -1,13 +1,15 @@
 import { Link } from "react-router-dom";
-import React from "react";
+import React, { useEffect, useState } from "react";
 
 function PixelArt() {
   return (
     <div>
+
       <h1>Pixel Art</h1>
 
-      <Link to="/">Go Home</Link>
+    <Link to="/">Go Home</Link>
     </div>
+
   );
 }
 

@@ -4,7 +4,6 @@ import Home from "./components/Home";
 import PixelArt from "./components/PixelArt";
 import Projects from "./components/Projects";
 import { Route, Routes } from "react-router-dom";
-
 document.body.style.backgroundColor = "#cbdbfa";
 
 function App() {
@@ -16,6 +15,7 @@ function App() {
           marginRight: "auto",
         }}
       >
+        <darkButton />
         <div>
           <Routes>
             <Route path="/" element={<Home />} />

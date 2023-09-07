@@ -13,6 +13,7 @@
 .App{
   text-align: center;
   display: flex;
+  font-family: "Cousine";
 }
 
 h1{
@@ -100,6 +101,14 @@ p {
   .sprite:hover {
     transform: translate(-50%, -50%) rotateY(180deg);
     transition: all 0.6s ease-in-out 0s;
+  }
+
+  .button{
+    margin-left:50px;
+    margin-top:50px;
+    position:absolute;
+    background-color:white;
+    border: solid black 2px;
   }
 
 

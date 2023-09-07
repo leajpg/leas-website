@@ -1,0 +1,33 @@
+#project-box{
+    margin-left:auto;
+    margin-right:auto;
+    width: 720px;
+    overflow: hidden;
+    background-image: url(https://snails.neocities.org/EctImgs/LeaWebLayout2.png);
+    height: 900px;
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    background-position: center;   
+    }
+    
+   .title{
+    margin-top:110px;
+    text-align:center;
+    }
+    
+    .box2{
+    background-color:transparent;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    width: 700px;
+    height:570px;
+    overflow-y:auto;
+    }
+    
+    .project{
+    border: solid black 2px;
+    padding: 10px;
+    margin: 5px;
+    }
+    
