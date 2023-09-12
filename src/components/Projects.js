@@ -10,17 +10,23 @@ function Projects() {
         </div>
         <div class="box2">
           <div class="project">
-            <h1> Project 1</h1>
+            <h1> Professional Website</h1>
             <p>
               {" "}
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Suspendisse ut massa eget arcu hendrerit tempor ut ut augue.
-              Nullam ac lorem semper, mattis mauris ut, cursus elit. Nam vel
-              elementum eros. Nullam sit amet ante quis lorem feugiat semper non
-              et enim. Mauris imperdiet dui eget tellus malesuada, id sagittis
-              est accumsan. Integer vitae purus ut augue ullamcorper iaculis vel
-              sit amet orci. Donec eget finibus sapien. Nunc in est semper,
-              bibendum diam non, varius libero.{" "}
+              You are here!📍 This website was crafted with React.js. I added my
+              own pixel art and CSS animations to give it a personal touch.
+              Drawing inspiration from y2k web aesthetics and Geocities designs,
+              I aimed to create a responsive, modern, and uniquely engaging
+              platform to showcase my work and interests. View the source files
+              on github{" "}
+              <a
+                href="https://github.com/leajpg"
+                rel="noreferrer"
+                target="_blank"
+              >
+                here
+              </a>
+              .{" "}
             </p>
           </div>
 
