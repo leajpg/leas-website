@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/leas-website/static/css/main.1d28e01e.css",
+    "main.js": "/leas-website/static/js/main.22dfaaf3.js",
+    "static/media/LeaSpriteGrain.png": "/leas-website/static/media/LeaSpriteGrain.0fe31951c3f2d77b2590.png",
+    "static/media/Cousine-Regular.ttf": "/leas-website/static/media/Cousine-Regular.6cd8f52526e026733ecd.ttf",
+    "static/media/LeaWebLayout.png": "/leas-website/static/media/LeaWebLayout.665a7f5b2bcb1bfdb34d.png",
+    "static/media/BMtoppo.ttf": "/leas-website/static/media/BMtoppo.266ec4aae0e2fda2ed2b.ttf",
+    "index.html": "/leas-website/index.html",
+    "main.1d28e01e.css.map": "/leas-website/static/css/main.1d28e01e.css.map",
+    "main.22dfaaf3.js.map": "/leas-website/static/js/main.22dfaaf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d28e01e.css",
+    "static/js/main.22dfaaf3.js"
+  ]
+}
