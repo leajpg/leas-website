@@ -7,6 +7,8 @@ function PixelArt() {
 
       <h1>Pixel Art</h1>
 
+      ! COMING SOON ! {" "}
+
     <Link to="/">Go Home</Link>
     </div>
 
