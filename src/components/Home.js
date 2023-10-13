@@ -26,8 +26,14 @@ function Home() {
 
             <h2>Portfolio</h2>
             <p>
-              <Link to="PixelArt">Pixel Art</Link> |{" "}
-              <Link to="/Projects">Projects</Link>
+              <Link
+                to="https://snails.neocities.org/pixelart"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Pixel Art
+              </Link>{" "}
+              | <Link to="/Projects">Projects</Link>
             </p>
           </div>
           <div className="links">
