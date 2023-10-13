@@ -1,13 +1,6 @@
 # Lea Ciarcia's Professional Website
 
-Welcome to the repository for my personal website built with React.js!
-
-## Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Contact](#contact)
+My personal website built with React.js
 
 ## About
 
